@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Rafael – a Data Analyst and Reporting Specialist, passionate about visual analytics.
+## Hi there 👋, I'm Rafael...
+### ... a Data Analyst and Reporting Specialist, passionate about visual analytics.
 
 📊 As a creative strategist, I turn complex data into valuable insights through storytelling and data visualization. Basically I make data understandable and impactful for the decision-makers – whether using engaging presentations, detailed reports, or dynamic dashboards.
 
