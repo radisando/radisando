@@ -1,6 +1,12 @@
 ## Hi there 👋, I'm Rafael...
 ### ... a Data Analyst and Reporting Specialist, passionate about visual analytics.
 
+### Links:
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafa-sandoval/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
+  <a href="https://public.tableau.com/app/profile/rafael.sandoval/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Tableau Portfolio</a> •
+</p>
+
 📊 As a creative strategist, I turn complex data into valuable insights through storytelling and data visualization. Basically I make data understandable and impactful for the decision-makers – whether using engaging presentations, detailed reports, or dynamic dashboards.
 
 🌍 My international career journey has cultivated in me a passion for multicultural environments. I thrive in settings where collaboration across cultures comes naturally. 
