@@ -7,8 +7,10 @@
 
 📊 As a creative strategist, I turn complex data into valuable insights through storytelling and data visualization. Basically I make data understandable and impactful for the decision-makers – whether using engaging presentations, detailed reports, or dynamic dashboards.
 
-🌍 My international career journey has cultivated in me a passion for multicultural environments. I thrive in settings where collaboration across cultures comes naturally. 
+🤖 Alongside BI, I’m expanding into AI and Data Science, working on projects in Python, NLP, and predictive modeling to connect analytics with innovation.
 
-👥 Beyond work, you’ll often find me engaging in volunteering initiatives, such as sport events and now as a leader of a Tableau User Group in Berlin, in which we are building a local community passionate about data and visual analytics. I also enjoy editing travel and family videos or exploring different sports.
+🌍 Having worked across Germany, Mexico, and Hungary, I thrive in multicultural environments and bring strong communication skills in English, German, Spanish, and Portuguese. Beyond work, I lead the Berlin Tableau User Group, building a community passionate about data and AI, and I also volunteer at international sport events.
+
+🚀 Currently I'm looking for my next Data / BI Analyst role, where I can apply my expertise in analytics and visualization, and turn insights into real business impact and growth.
 
 🛠️ Technical skills: SQL • Python • Salesforce • Tableau • Power BI • Databricks • Figma
