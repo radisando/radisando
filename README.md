@@ -2,8 +2,10 @@
 ### ... a Data Analyst and Reporting Specialist, passionate about visual analytics.
 
 
-<b>PORTFOLIO</b> <p align="left"> 
-<a href="https://www.linkedin.com/in/rafa-sandoval/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="15"/> Linkedin</a>  •  <a href="https://public.tableau.com/app/profile/rafael.sandoval/"><img src="https://img.icons8.com/color/96/tableau-software.png" height="15"/> Tableau Portfolio</a></p>  •  <a href="https://troopl.com/rafa-sandoval"><img src="https://img.icons8.com/color/96/data-configuration.png" height="15"/> Data Science Projects</a></p>
+Check out my...</b> 
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/rafa-sandoval/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="15"/> Linkedin</a>  •  <a href="https://public.tableau.com/app/profile/rafael.sandoval/"><img src="https://img.icons8.com/color/96/tableau-software.png" height="15"/> Tableau Portfolio</a>  •  <a href="https://troopl.com/rafa-sandoval"><img src="https://img.icons8.com/color/96/data-configuration.png" height="15"/> Data Science Projects</a>
+</p>
 
 
 
