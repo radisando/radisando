@@ -1,6 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQF2JqxNqxck6A/profile-displaybackgroundimage-shrink_350_1400/B4EZmARds2IwAY-/0/1758793687043?e=1762387200&v=beta&t=U8nk0zmXRyXNtbjC8gDDh6nm-WlD5UlMkUt_xd4nRTo"/>
 
-# Hi there, I'm Rafael 👋 - a Data & BI Analyst, passionate about visual analytics.
+# Hi there, I'm Rafael 👋 
+### ... a Data & BI Analyst, passionate about visual analytics!
 
 ---
 
