@@ -33,6 +33,6 @@ SQL  •  Python  •  Salesforce  •  Tableau  •  Power BI  •  Looker  •
 
 ### 📂 Other Projects
 - [face_it](https://face-it.streamlit.app/) – AI-powered web app that recognizes human emotions from facial expressions
-- [Rock-Paper-Scissor](https://github.com/radisando/rock-paper-scissor-app) - ML project to recognize and classify hand gesture images 
+- [Rock-Paper-Scissor](https://huggingface.co/spaces/radisando/rock-paper-scissor-app) - ML project to recognize and classify hand gesture images 
 - [IT Help Desk Dashboard](https://public.tableau.com/app/profile/rafael.sandoval/viz/ITHelpDeskDashboardRWFDv2/OVERVIEW) - Business Dashboard on IT Help Desk ticketing system. Data from #RWFD community project.
 - [HR People Analytics Dashboard](https://public.tableau.com/app/profile/rafael.sandoval/viz/HRDashboard-PeopleAnalyticsRWFD/OVERVIEW) - Business dashboard in Tableau using HR data from the #RWFD community project.
