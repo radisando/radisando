@@ -31,9 +31,9 @@ SQL  •  Python  •  Salesforce  •  Tableau  •  Power BI  •  Looker  •
 ---
 
 
-### 📂 Other Projects
+### 📂 Some of my Projects
 - [face_it](https://face-it.streamlit.app/) – AI-powered web app that recognizes and classify human emotions from facial expressions
 - [Rock-Paper-Scissor App](https://huggingface.co/spaces/radisando/rock-paper-scissor-app) - AI-powered app that recognizes hand gestures and lets you play against the machine.
 - [Laboratory Exams Report](https://github.com/radisando/lab_exams/tree/main) - Analytics project built to visualize and track my family's health and laboratory exam results.
+- [Exploratory Data Analysis in Python](https://github.com/radisando/eda_python_projects) - Collection of my EDA projects using Python (Pandas, NumPy, Matplotlib, and Seaborn).
 - [IT Help Desk Dashboard](https://public.tableau.com/app/profile/rafael.sandoval/viz/ITHelpDeskDashboardRWFDv2/OVERVIEW) - Interactive Tableau dashboard analyzing IT ticketing performance from the #RWFD community dataset.
-- [HR People Analytics Dashboard](https://public.tableau.com/app/profile/rafael.sandoval/viz/HRDashboard-PeopleAnalyticsRWFD/OVERVIEW) - Engaging dashboard exploring workforce insights and HR metrics using #RWFD project data.
