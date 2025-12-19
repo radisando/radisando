@@ -26,7 +26,6 @@ SQL  •  Python  •  Salesforce  •  Tableau  •  Power BI  •  Looker  •
 ### 👀 Check out my....
 - <img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="17"/> <a href="https://www.linkedin.com/in/rafa-sandoval/">Linkedin</a>
 - <img src="https://img.icons8.com/color/96/tableau-software.png" height="17"/> <a href="https://public.tableau.com/app/profile/rafael.sandoval/">Dashboards Portfolio</a>
-- <img src="https://img.icons8.com/color/96/data-configuration.png" height="17"/> <a href="https://troopl.com/rafa-sandoval">Data Science & AI Projects</a>
 
 ---
 
