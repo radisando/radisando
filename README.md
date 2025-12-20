@@ -28,7 +28,7 @@ SQL  •  Python  •  Tableau  •  Power BI  •  Looker  •  Databricks  •
 
 - [**Laboratory Exams Report**](https://github.com/radisando/lab_exams/tree/main) - Analytics project built to visualize and track my family's health and laboratory exam results.
 
-- [**Latin America in Numbers**](https://github.com/radisando/latam_numbers) - Interactive dashboard that explores key social and macroeconomic indicators across Latin American countries.
+- [**Latin America in Numbers**](https://github.com/radisando/latam_numbers) - Interactive page to explores some social and macroeconomic indicators across Latin American countries.
 
 - [**Exploratory Data Analysis - Python**](https://github.com/radisando/eda_python_projects) - Collection of my EDA projects using Python (Pandas, NumPy, Matplotlib, and Seaborn).
 
@@ -37,12 +37,12 @@ SQL  •  Python  •  Tableau  •  Power BI  •  Looker  •  Databricks  •
   
 ---
 ### 👀 Also check my....
-- <img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="17"/> <a href="https://www.linkedin.com/in/rafa-sandoval/">Linkedin</a>
-- <img src="https://img.icons8.com/color/96/tableau-software.png" height="17"/> <a href="https://public.tableau.com/app/profile/rafael.sandoval/">Dashboards Portfolio</a>  👇
+- <img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="17"/> <a href="https://www.linkedin.com/in/rafa-sandoval/" target="_blank">Linkedin</a>
+- <img src="https://img.icons8.com/color/96/tableau-software.png" height="17"/> <a href="https://public.tableau.com/app/profile/rafael.sandoval/" target="_blank">Dashboards Portfolio</a>   👇
 
 
 
 
-<img width="1982" height="610" alt="image" src="https://github.com/user-attachments/assets/f6bab74b-3502-4089-bf44-75c9c7dded05" />
-<img width="1951" height="607" alt="image" src="https://github.com/user-attachments/assets/279d15a3-13ee-4357-be21-3f789dbce153" />
-<img width="1954" height="612" alt="image" src="https://github.com/user-attachments/assets/50e8fd27-cafa-4c33-a04a-bf9d967fd0ac" />
+<a href="https://public.tableau.com/app/profile/rafael.sandoval/" target="_blank"><img width="1982" height="610" alt="image" src="https://github.com/user-attachments/assets/f6bab74b-3502-4089-bf44-75c9c7dded05" /></a>
+<a href="https://public.tableau.com/app/profile/rafael.sandoval/" target="_blank"><img width="1951" height="607" alt="image" src="https://github.com/user-attachments/assets/279d15a3-13ee-4357-be21-3f789dbce153" /></a>
+<a href="https://public.tableau.com/app/profile/rafael.sandoval/" target="_blank"><img width="1954" height="612" alt="image" src="https://github.com/user-attachments/assets/50e8fd27-cafa-4c33-a04a-bf9d967fd0ac" /></a>
