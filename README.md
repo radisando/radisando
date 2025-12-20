@@ -28,7 +28,7 @@ SQL  •  Python  •  Tableau  •  Power BI  •  Looker  •  Databricks  •
 
 - [**Laboratory Exams Report**](https://github.com/radisando/lab_exams/tree/main) - Analytics project built to visualize and track my family's health and laboratory exam results.
 
-- [**Latin America in Numbers**](https://github.com/radisando/latam_numbers) - Interactive page to explores some social and macroeconomic indicators across Latin American countries.
+- [**Latin America in Numbers**](https://github.com/radisando/latam_numbers) - Interactive page displaying some macroeconomic indicators across Latin American countries.
 
 - [**Exploratory Data Analysis - Python**](https://github.com/radisando/eda_python_projects) - Collection of my EDA projects using Python (Pandas, NumPy, Matplotlib, and Seaborn).
 
